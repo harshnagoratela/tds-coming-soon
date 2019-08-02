@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-hyperspace",
+  "name": "gatsby-html5up-aerial",
   "version": "0.0.1",
-  "description": "Gatsby.js V2 starter template based on Hyperspace by HTML5 UP",
+  "description": "Gatsby Html5up - Open-Source app with Aerial design",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-hyperspace.git"
+    "url": "git+https://github.com/app-generator/gatsby-html5up-aerial"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Sm0ke",
+    "email": "support@appseed.us"
   },
   "dependencies": {
     "ftp-deploy": "^2.3.3",
@@ -45,7 +45,7 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/anubhavsrivastava/gatsby-starter-aerial/issues"
+    "url": "https://github.com/app-generator/gatsby-html5up-aerial/issues"
   },
-  "homepage": "https://github.com/anubhavsrivastava/gatsby-starter-aerial#readme"
+  "homepage": "https://gatsby-html5up-aerial.appseed.us/"
 }

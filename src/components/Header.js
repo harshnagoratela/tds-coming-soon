@@ -4,8 +4,8 @@ import config from '../../config';
 export default function Footer() {
   return (
     <header id="header">
-      <h1>{config.authorName}</h1>
-      <p>{config.authorHeading}</p>
+      <h1>Gatsby Html5up</h1>
+      <p>Open-Source app with Aerial design</p>
       <nav>
         <ul>
           {config.authorSocialLinks.map(social => {
