@@ -1,7 +1,18 @@
-# [GatsbyJS Aerial](https://gatsby-html5up-aerial.appseed.us)
+# [GatsbyJS Aerial](https://appseed.us/apps/gatsbyjs/gatsby-html5up-aerial)
 
 Open-source app built with GatsbyJS on top of HTML5Up Aerial design. 
 **Forked from [this](https://github.com/anubhavsrivastava/gatsby-starter-aerial) project.**
+
+<br />
+
+![GatsbyJS Aerial - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-aerial-intro.gif?raw=true)
+
+<br />
+
+## App Links
+
+- [GatsbyJS Aerial](https://gatsby-html5up-aerial.appseed.us) - live demo
+- [Aerial](https://html5up.net/aerial) - the design provided by Html5UP 
 
 <br />
 
@@ -16,7 +27,7 @@ Open-source app built with GatsbyJS on top of HTML5Up Aerial design.
 
 ## Support
 
-For Support please access the [Support](https://appseed.us/support) provided by **AppSeed** 
+Please access the official [Support](https://appseed.us/support) page provided by **AppSeed**
 
 <br />
 
@@ -28,4 +39,4 @@ For Support please access the [Support](https://appseed.us/support) provided by 
 <br />
 
 ---
-[GatsbyJS Aerial](https://gatsby-html5up-aerial.appseed.us) provided by **AppSeed**
+[GatsbyJS Aerial](https://appseed.us/apps/gatsbyjs/gatsby-html5up-aerial) provided by **AppSeed**
