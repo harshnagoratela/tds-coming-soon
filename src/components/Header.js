@@ -4,7 +4,9 @@ import config from '../../config';
 export default function Footer() {
   return (
     <header id="header">
-      <h1>Gatsby Html5up</h1>
+      <h1>
+        <a href="https://www.gatsbyjs.org/">Gatsby</a> Html5up
+      </h1>
       <p>Open-Source app with Aerial design</p>
       <nav>
         <ul>
