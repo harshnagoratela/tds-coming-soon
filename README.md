@@ -5,7 +5,7 @@ Open-source app built with GatsbyJS on top of HTML5Up Aerial design.
 
 <br />
 
-![GatsbyJS Aerial - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-html5up-aerial-intro.gif?raw=true)
+![GatsbyJS Aerial - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/gatsby-html5up-aerial-intro.gif)
 
 <br />
 
