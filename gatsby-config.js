@@ -3,10 +3,11 @@ const config = require('./config');
 module.exports = {
   pathPrefix: config.pathPrefix,
   siteMetadata: {
-		title: 'Gatsby Html5up - Open-Source app with Aerial design',
-    description: `Open-Source Gatsby Starter`,
-    author: `@Sm0keDev`,
-		siteUrl: `https://gatsby-html5up-aerial.appseed.us`,
+	title: 'The Digital Stride',
+    description: `Thought Leaders in Digital`,
+    keywords: `digital, agency, cms, gatsby, reactjs, web development, content strategies, digital marketing`,
+    author: `@harshnagoratela`,
+	siteUrl: `https://github.com/harshnagoratela/tds-coming-soon`,
   },
   plugins: [
     'gatsby-plugin-react-helmet',

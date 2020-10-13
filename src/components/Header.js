@@ -1,16 +1,18 @@
 import React from 'react';
 
 import config from '../../config';
-export default function Footer() {
+export default function Header() {
   return (
     <header id="header">
       <h1>
-        <a href="https://www.gatsbyjs.org/">Gatsby</a> Html5up
+        We are launching very soon!
       </h1>
-      <p>Open-Source app with Aerial design</p>
+      <h2>Our website in under construction</h2>
+      <br />
+      <p>{config.siteTitle} - Thought Leaders in Digital</p>
       <nav>
         <ul>
-          {config.authorSocialLinks.map(social => {
+          {config.authorSocialLinks && config.authorSocialLinks.map(social => {
             const { icon, name, url } = social;
             return (
               <li>
