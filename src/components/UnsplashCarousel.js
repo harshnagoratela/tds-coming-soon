@@ -32,7 +32,7 @@ const UnsplashCarousel = () => {
     return (
         <Carousel
             swipeable={true}
-            draggable={false}
+            draggable={true}
             showDots={false}
             responsive={responsive}
             ssr={true} // means to render carousel on server-side.
@@ -42,13 +42,12 @@ const UnsplashCarousel = () => {
             customTransition={"transform 2000ms ease-in-out"}
             transitionDuration={2000}
             containerClass="carousel-container"
-            removeArrowOnDeviceType={["tablet", "mobile"]}
             dotListClass="custom-dot-list-style"
             itemClass="carousel-item-padding-40-px"
         >
             {keywords.map(item => (
                 <img
-                    draggable={false}
+                    draggable={true}
                     alt={`Unsplash - ${item}`}
                     style={{ width: "100%", cursor: "pointer" }}
                     src={`https://source.unsplash.com/1600x900/?${item}`}
