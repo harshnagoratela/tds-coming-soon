@@ -35,11 +35,12 @@ const UnsplashCarousel = () => {
             draggable={true}
             showDots={false}
             responsive={responsive}
-            ssr={true} // means to render carousel on server-side.
+            ssr={false} // means to render carousel on server-side.
             infinite={true}
             autoPlay={true}
+            autoPlaySpeed={4000}
             keyBoardControl={true}
-            customTransition={"transform 2000ms ease-in-out"}
+            customTransition={"all 5s linear"}
             transitionDuration={2000}
             containerClass="carousel-container"
             dotListClass="custom-dot-list-style"
