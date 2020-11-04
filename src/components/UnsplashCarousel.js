@@ -20,12 +20,19 @@ const responsive = {
   }
 };
 
-const keywords = [
+const keywords1 = [
     'nature','beach','sea','birds','lightning','water','macbook','apple','ice','android',
     'desktop','cute','bridge','night','moon','sports','mountain','iphone','peacock','wallpaper',
     'sun','sea','nature','mountain','water','ipad','chair','nemo','sand','drone',
     'pen','texture','sunrise','river','nature','macbook','ice','night','moon','desert',
     'iceland','ocean','wallpaper','astronomy','texture','sunset','land','dawn','ocean','nature',
+]
+
+const keywords = [
+  'website','website','website','website','website','website','website','website','website',
+ 'website','website','website','website','website','website','website','website','website',
+ 'website','website','website','website','website','website','website','website','website',
+ 'website','website','website','website','website','website','website','website','website',
 ]
 
 const UnsplashCarousel = () => {
